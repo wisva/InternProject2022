@@ -1,0 +1,20 @@
+.admin_sidebar_accordian {
+  padding: 4px 16px;
+}
+.admin_sidebar_accordian a {
+  color: rgba(255, 255, 255, 0.8);
+}
+.admin_sidebar_accordian a:hover {
+  color: #fff;
+}
+.activeCollapse {
+  background-color: #fff;
+  border-radius: 6px;
+  padding-bottom: 3px;
+}
+.activeCollapse a {
+  color: #02965e;
+}
+.activeCollapse a:hover {
+  color: #02965e;
+}

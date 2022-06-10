@@ -1,0 +1,11 @@
+.info_div {
+  width: 100%;
+  height: 100vh;
+  background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+}
+.content_div {
+  position: fixed;
+  top: 40%;
+  left: 40%;
+  text-align: center;
+}
